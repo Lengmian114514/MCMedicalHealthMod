@@ -13,7 +13,7 @@ MCMH的代码绝大多数都是我和另外一个学生命名的，我和他英�
 
 　
 
-**一些无趣的小细节：**
+**一些小提示：**
 - 这个模组并没有任何的建模，是的，你要是有意见欢迎加入我们，联系：ekrubyisgay@gmail.com/lengmianannuo@gmail.com（run
 - 哦，对，模组立绘也不咋地，我和他美术都不太过关，还是那句话，欢迎加入我们，联系：ekrubyisgay@gmail.com/lengmianannuo@gmail.com（再run
 - 源代码库并不是即时更新的，而是在每次MCMH模组更新时手动同步一次。

@@ -1,0 +1,7 @@
+Java Launcher: C:\Program Files\Pylo\MCreator\jdk\bin\java.exe
+Arguments: '--inJar, C:\Users\冷面安诺\.mcreator\gradle\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.17.1-37.1.1\forge-1.17.1-37.1.1-injected.jar, --outJar, C:\Users\冷面安诺\.mcreator\gradle\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.17.1-37.1.1_mapped_official_1.17.1\forge-1.17.1-37.1.1_mapped_official_1.17.1.jar, --logFile, accesstransform.log, --atFile, C:\MCreatorWorkspaces\as14\build\_atJar_4\parent_at.cfg'
+Classpath:
+ - C:\Users\冷面安诺\.mcreator\gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\accesstransformers\8.0.7\accesstransformers-8.0.7-fatjar.jar
+Working directory: C:\MCreatorWorkspaces\as14\build\_atJar_4
+Main class: net.minecraftforge.accesstransformer.TransformerProcessor
+====================================

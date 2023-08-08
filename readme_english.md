@@ -18,6 +18,6 @@ You can also sumbit a Issues/Pull Requests. Although this source code library ca
 　
 
 **Some Tips:**
-- This mod doesn't have any modeling. Yes, if you have any comments, please contact:ekrubyisgay@gmail.com/lengmisnannuo@gmail.com（run
+- This mod doesn't have any modeling. Yes, if you have any comments, please contact:ekrubyisgay@gmail.com/lengmianannuo@gmail.com（run
 - Oh, yes, the mod's vertical drawing is not so good either. Neither I nor he is very good at art. Again, welcome to join us.Contact:ekrubyisgay@gmail.com/lengmianannuo@gmail.com (run again!
 - The source code base is not updated immediately, but is synchronized manually every time the MCMH mod is updated.

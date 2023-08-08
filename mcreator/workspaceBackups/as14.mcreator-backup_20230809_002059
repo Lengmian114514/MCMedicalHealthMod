@@ -1,0 +1,176 @@
+{
+  "mod_elements": [
+    {
+      "name": "Firstaidpack",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "firstaidpack"
+    },
+    {
+      "name": "MedicalAid",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "medical_aid"
+    },
+    {
+      "name": "Healthing",
+      "type": "procedure",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "healthing",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "PillsHealthing",
+      "type": "procedure",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pills_healthing",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Pills",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pills"
+    },
+    {
+      "name": "NeedleHealthing",
+      "type": "procedure",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "needle_healthing",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Needle",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "needle"
+    },
+    {
+      "name": "Bandage",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bandage"
+    },
+    {
+      "name": "Disinfectant",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "disinfectant"
+    },
+    {
+      "name": "CottonSwab",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cotton_swab"
+    },
+    {
+      "name": "Tweezers",
+      "type": "item",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tweezers"
+    },
+    {
+      "name": "MakeMedicalPack",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "make_medical_pack"
+    },
+    {
+      "name": "MakePills",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "make_pills"
+    },
+    {
+      "name": "MakeNeedle",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "make_needle"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.as14.bandage": "Bandage",
+      "item.as14.disinfectant": "Disinfectant",
+      "itemGroup.tabmedical_aid": "Medical Aid",
+      "item.as14.cotton_swab": "Cotton Swab",
+      "item.as14.pills": "Pills",
+      "item.as14.needle": "Needle",
+      "item.as14.firstaidpack": "Firstaidpack",
+      "item.as14.tweezers": "Tweezers"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "as14",
+    "modName": "工具",
+    "version": "1.0.0",
+    "author": "冷面安诺, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.17.1",
+    "modElementsPackage": "net.mcreator.as",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100354000
+}

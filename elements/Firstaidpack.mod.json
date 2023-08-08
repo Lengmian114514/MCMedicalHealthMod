@@ -1,0 +1,39 @@
+{
+  "_fv": 24,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "aid",
+    "customModelName": "Normal",
+    "name": "Firstaidpack",
+    "rarity": "COMMON",
+    "creativeTab": {
+      "value": "CUSTOM:MedicalAid"
+    },
+    "stackSize": 1,
+    "enchantability": 0,
+    "useDuration": 4,
+    "toolType": 0.0,
+    "damageCount": 2,
+    "recipeRemainder": {
+      "value": ""
+    },
+    "destroyAnyBlock": false,
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInfo": [
+      "Health"
+    ],
+    "hasGlow": false,
+    "guiBoundTo": "<NONE>",
+    "inventorySize": 9,
+    "inventoryStackSize": 64,
+    "onRightClickedInAir": {
+      "name": "Healthing"
+    },
+    "hasDispenseBehavior": false
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "medicalpack",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "medicalhealth:bandage"
+    },
+    "1": {
+      "item": "minecraft:red_wool"
+    },
+    "2": {
+      "item": "medicalhealth:cotton_swab"
+    },
+    "3": {
+      "item": "minecraft:red_wool"
+    },
+    "4": {
+      "item": "minecraft:light_gray_wool"
+    },
+    "5": {
+      "item": "minecraft:red_wool"
+    },
+    "6": {
+      "item": "medicalhealth:disinfectant"
+    },
+    "7": {
+      "item": "minecraft:red_wool"
+    },
+    "8": {
+      "item": "medicalhealth:tweezers"
+    }
+  },
+  "result": {
+    "item": "medicalhealth:firstaidpack",
+    "count": 1
+  }
+}

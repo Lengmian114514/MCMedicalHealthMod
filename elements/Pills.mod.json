@@ -1,0 +1,39 @@
+{
+  "_fv": 24,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "pills",
+    "customModelName": "Normal",
+    "name": "Pills",
+    "rarity": "COMMON",
+    "creativeTab": {
+      "value": "CUSTOM:MedicalAid"
+    },
+    "stackSize": 2,
+    "enchantability": 0,
+    "useDuration": 2,
+    "toolType": 0.0,
+    "damageCount": 6,
+    "recipeRemainder": {
+      "value": ""
+    },
+    "destroyAnyBlock": false,
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInfo": [
+      "TempHealthing"
+    ],
+    "hasGlow": false,
+    "guiBoundTo": "<NONE>",
+    "inventorySize": 9,
+    "inventoryStackSize": 2,
+    "onRightClickedInAir": {
+      "name": "PillsHealthing"
+    },
+    "hasDispenseBehavior": false
+  }
+}
